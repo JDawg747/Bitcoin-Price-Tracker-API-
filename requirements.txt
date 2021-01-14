@@ -1,6 +1,1 @@
 requests==2.24.0
-
-The required packages can be installed with:
-
-pip install -r requirements.txt 
-
