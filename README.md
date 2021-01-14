@@ -15,5 +15,6 @@ Most of this code is pulled from the CoinMarket API Documentation https://coinma
 Clone this repo with $ git clone https://github.com/JDawg747/Bitcoin-Price-Tracker-API-.git 
 
 
-Make sure to install all of the requirements detailed in 'requirements.txt' 
+Make sure to install all of the requirements detailed in 'requirements.txt' with 'pip install -r requirements.txt'
+
 
