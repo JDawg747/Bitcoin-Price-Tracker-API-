@@ -10,13 +10,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install -r requirements.txt
 ```
 
-Sign up for a free [CoinMarket API Key here](https://coinmarketcap.com/api/). **An API key is required in order to run this code.**
-
 
 
 Clone this repo with **$ git clone https://github.com/JDawg747/Bitcoin-Price-Tracker-API-.git**
 
 ## Setup
+
+Sign up for a free [CoinMarket API Key here](https://coinmarketcap.com/api/). **An API key is required in order to run this code.**
 
 Enter API Key at line 14.
 
