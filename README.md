@@ -5,6 +5,6 @@
 # Enter API Key at line 14.
 # Enter BTC wallet balance in decimal format at line 29. The code will do the rest. 
 
-# Most of this code is pulled from the CoinMarket API Documentation https://coinmarketcap.com/api/documentation/v1/#section/Quick-Start-Guide with slight modifications to limit the code so it sends information for just BTC. 
+# Most of this code is pulled from the CoinMarket API Documentation https://coinmarketcap.com/api/documentation/v1/# with slight modifications to limit the code so it sends information for just BTC. 
 
 # Make sure to install all of the requirements detailed in 'requirements.txt' 
